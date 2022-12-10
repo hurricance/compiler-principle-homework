@@ -1,0 +1,88 @@
+please enter string you want to analyze:
+(n*n-(n/n-n)+n)/((n*n)+(n*(n-n)))*n
+Õ»                   ÊäÈë                    Êä³ö
+0/_                  (n*n-(n/n-n)+n)/((n*n)+(n*(n-n)))*n$                        shift 4
+0/_ 4/(                  n*n-(n/n-n)+n)/((n*n)+(n*(n-n)))*n$                        shift 5
+0/_ 4/( 5/n                  *n-(n/n-n)+n)/((n*n)+(n*(n-n)))*n$                    reduced by F -> n
+0/_ 4/( 3/F                  *n-(n/n-n)+n)/((n*n)+(n*(n-n)))*n$                    reduced by T -> F
+0/_ 4/( 2/T                  *n-(n/n-n)+n)/((n*n)+(n*(n-n)))*n$                        shift 8
+0/_ 4/( 2/T 8/*                  n-(n/n-n)+n)/((n*n)+(n*(n-n)))*n$                        shift 5
+0/_ 4/( 2/T 8/* 5/n                  -(n/n-n)+n)/((n*n)+(n*(n-n)))*n$                    reduced by F -> n
+0/_ 4/( 2/T 8/* 13/F                  -(n/n-n)+n)/((n*n)+(n*(n-n)))*n$                    reduced by T -> T*F
+0/_ 4/( 2/T                  -(n/n-n)+n)/((n*n)+(n*(n-n)))*n$                    reduced by E -> T
+0/_ 4/( 10/E                  -(n/n-n)+n)/((n*n)+(n*(n-n)))*n$                        shift 7
+0/_ 4/( 10/E 7/-                  (n/n-n)+n)/((n*n)+(n*(n-n)))*n$                        shift 4
+0/_ 4/( 10/E 7/- 4/(                  n/n-n)+n)/((n*n)+(n*(n-n)))*n$                        shift 5
+0/_ 4/( 10/E 7/- 4/( 5/n                  /n-n)+n)/((n*n)+(n*(n-n)))*n$                    reduced by F -> n
+0/_ 4/( 10/E 7/- 4/( 3/F                  /n-n)+n)/((n*n)+(n*(n-n)))*n$                    reduced by T -> F
+0/_ 4/( 10/E 7/- 4/( 2/T                  /n-n)+n)/((n*n)+(n*(n-n)))*n$                        shift 9
+0/_ 4/( 10/E 7/- 4/( 2/T 9//                  n-n)+n)/((n*n)+(n*(n-n)))*n$                        shift 5
+0/_ 4/( 10/E 7/- 4/( 2/T 9// 5/n                  -n)+n)/((n*n)+(n*(n-n)))*n$                    reduced by F -> n
+0/_ 4/( 10/E 7/- 4/( 2/T 9// 14/F                  -n)+n)/((n*n)+(n*(n-n)))*n$                    reduced by T -> T/F
+0/_ 4/( 10/E 7/- 4/( 2/T                  -n)+n)/((n*n)+(n*(n-n)))*n$                    reduced by E -> T
+0/_ 4/( 10/E 7/- 4/( 10/E                  -n)+n)/((n*n)+(n*(n-n)))*n$                        shift 7
+0/_ 4/( 10/E 7/- 4/( 10/E 7/-                  n)+n)/((n*n)+(n*(n-n)))*n$                        shift 5
+0/_ 4/( 10/E 7/- 4/( 10/E 7/- 5/n                  )+n)/((n*n)+(n*(n-n)))*n$                    reduced by F -> n
+0/_ 4/( 10/E 7/- 4/( 10/E 7/- 3/F                  )+n)/((n*n)+(n*(n-n)))*n$                    reduced by T -> F
+0/_ 4/( 10/E 7/- 4/( 10/E 7/- 12/T                  )+n)/((n*n)+(n*(n-n)))*n$                    reduced by E -> E-T
+0/_ 4/( 10/E 7/- 4/( 10/E                  )+n)/((n*n)+(n*(n-n)))*n$                        shift 15
+0/_ 4/( 10/E 7/- 4/( 10/E 15/)                  +n)/((n*n)+(n*(n-n)))*n$                    reduced by F -> (E)
+0/_ 4/( 10/E 7/- 3/F                  +n)/((n*n)+(n*(n-n)))*n$                    reduced by T -> F
+0/_ 4/( 10/E 7/- 12/T                  +n)/((n*n)+(n*(n-n)))*n$                    reduced by E -> E-T
+0/_ 4/( 10/E                  +n)/((n*n)+(n*(n-n)))*n$                        shift 6
+0/_ 4/( 10/E 6/+                  n)/((n*n)+(n*(n-n)))*n$                        shift 5
+0/_ 4/( 10/E 6/+ 5/n                  )/((n*n)+(n*(n-n)))*n$                    reduced by F -> n
+0/_ 4/( 10/E 6/+ 3/F                  )/((n*n)+(n*(n-n)))*n$                    reduced by T -> F
+0/_ 4/( 10/E 6/+ 11/T                  )/((n*n)+(n*(n-n)))*n$                    reduced by E -> E+T
+0/_ 4/( 10/E                  )/((n*n)+(n*(n-n)))*n$                        shift 15
+0/_ 4/( 10/E 15/)                  /((n*n)+(n*(n-n)))*n$                    reduced by F -> (E)
+0/_ 3/F                  /((n*n)+(n*(n-n)))*n$                    reduced by T -> F
+0/_ 2/T                  /((n*n)+(n*(n-n)))*n$                        shift 9
+0/_ 2/T 9//                  ((n*n)+(n*(n-n)))*n$                        shift 4
+0/_ 2/T 9// 4/(                  (n*n)+(n*(n-n)))*n$                        shift 4
+0/_ 2/T 9// 4/( 4/(                  n*n)+(n*(n-n)))*n$                        shift 5
+0/_ 2/T 9// 4/( 4/( 5/n                  *n)+(n*(n-n)))*n$                    reduced by F -> n
+0/_ 2/T 9// 4/( 4/( 3/F                  *n)+(n*(n-n)))*n$                    reduced by T -> F
+0/_ 2/T 9// 4/( 4/( 2/T                  *n)+(n*(n-n)))*n$                        shift 8
+0/_ 2/T 9// 4/( 4/( 2/T 8/*                  n)+(n*(n-n)))*n$                        shift 5
+0/_ 2/T 9// 4/( 4/( 2/T 8/* 5/n                  )+(n*(n-n)))*n$                    reduced by F -> n
+0/_ 2/T 9// 4/( 4/( 2/T 8/* 13/F                  )+(n*(n-n)))*n$                    reduced by T -> T*F
+0/_ 2/T 9// 4/( 4/( 2/T                  )+(n*(n-n)))*n$                    reduced by E -> T
+0/_ 2/T 9// 4/( 4/( 10/E                  )+(n*(n-n)))*n$                        shift 15
+0/_ 2/T 9// 4/( 4/( 10/E 15/)                  +(n*(n-n)))*n$                    reduced by F -> (E)
+0/_ 2/T 9// 4/( 3/F                  +(n*(n-n)))*n$                    reduced by T -> F
+0/_ 2/T 9// 4/( 2/T                  +(n*(n-n)))*n$                    reduced by E -> T
+0/_ 2/T 9// 4/( 10/E                  +(n*(n-n)))*n$                        shift 6
+0/_ 2/T 9// 4/( 10/E 6/+                  (n*(n-n)))*n$                        shift 4
+0/_ 2/T 9// 4/( 10/E 6/+ 4/(                  n*(n-n)))*n$                        shift 5
+0/_ 2/T 9// 4/( 10/E 6/+ 4/( 5/n                  *(n-n)))*n$                    reduced by F -> n
+0/_ 2/T 9// 4/( 10/E 6/+ 4/( 3/F                  *(n-n)))*n$                    reduced by T -> F
+0/_ 2/T 9// 4/( 10/E 6/+ 4/( 2/T                  *(n-n)))*n$                        shift 8
+0/_ 2/T 9// 4/( 10/E 6/+ 4/( 2/T 8/*                  (n-n)))*n$                        shift 4
+0/_ 2/T 9// 4/( 10/E 6/+ 4/( 2/T 8/* 4/(                  n-n)))*n$                        shift 5
+0/_ 2/T 9// 4/( 10/E 6/+ 4/( 2/T 8/* 4/( 5/n                  -n)))*n$                    reduced by F -> n
+0/_ 2/T 9// 4/( 10/E 6/+ 4/( 2/T 8/* 4/( 3/F                  -n)))*n$                    reduced by T -> F
+0/_ 2/T 9// 4/( 10/E 6/+ 4/( 2/T 8/* 4/( 2/T                  -n)))*n$                    reduced by E -> T
+0/_ 2/T 9// 4/( 10/E 6/+ 4/( 2/T 8/* 4/( 10/E                  -n)))*n$                        shift 7
+0/_ 2/T 9// 4/( 10/E 6/+ 4/( 2/T 8/* 4/( 10/E 7/-                  n)))*n$                        shift 5
+0/_ 2/T 9// 4/( 10/E 6/+ 4/( 2/T 8/* 4/( 10/E 7/- 5/n                  )))*n$                    reduced by F -> n
+0/_ 2/T 9// 4/( 10/E 6/+ 4/( 2/T 8/* 4/( 10/E 7/- 3/F                  )))*n$                    reduced by T -> F
+0/_ 2/T 9// 4/( 10/E 6/+ 4/( 2/T 8/* 4/( 10/E 7/- 12/T                  )))*n$                    reduced by E -> E-T
+0/_ 2/T 9// 4/( 10/E 6/+ 4/( 2/T 8/* 4/( 10/E                  )))*n$                        shift 15
+0/_ 2/T 9// 4/( 10/E 6/+ 4/( 2/T 8/* 4/( 10/E 15/)                  ))*n$                    reduced by F -> (E)
+0/_ 2/T 9// 4/( 10/E 6/+ 4/( 2/T 8/* 13/F                  ))*n$                    reduced by T -> T*F
+0/_ 2/T 9// 4/( 10/E 6/+ 4/( 2/T                  ))*n$                    reduced by E -> T
+0/_ 2/T 9// 4/( 10/E 6/+ 4/( 10/E                  ))*n$                        shift 15
+0/_ 2/T 9// 4/( 10/E 6/+ 4/( 10/E 15/)                  )*n$                    reduced by F -> (E)
+0/_ 2/T 9// 4/( 10/E 6/+ 3/F                  )*n$                    reduced by T -> F
+0/_ 2/T 9// 4/( 10/E 6/+ 11/T                  )*n$                    reduced by E -> E+T
+0/_ 2/T 9// 4/( 10/E                  )*n$                        shift 15
+0/_ 2/T 9// 4/( 10/E 15/)                  *n$                    reduced by F -> (E)
+0/_ 2/T 9// 14/F                  *n$                    reduced by T -> T/F
+0/_ 2/T                  *n$                        shift 8
+0/_ 2/T 8/*                  n$                        shift 5
+0/_ 2/T 8/* 5/n                  $                    reduced by F -> n
+0/_ 2/T 8/* 13/F                  $                    reduced by T -> T*F
+0/_ 2/T                  $                    reduced by E -> T
+0/_ 1/E                  $                     ACC
+successfully match

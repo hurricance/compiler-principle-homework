@@ -1,0 +1,5256 @@
+there is an error in the row 6
+there is an error in the row 7
+there is an error in the row 8
+there is an error in the row 9
+[Line] : 5
+[Type] : Keyword
+[Value] : void
+
+[Line] : 5
+[Type] : Identifier
+[Value] : scanning
+
+[Line] : 5
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 5
+[Type] : Keyword
+[Value] : char
+
+[Line] : 5
+[Type] : Punctuation
+[Value] : *
+
+[Line] : 5
+[Type] : Identifier
+[Value] : path
+
+[Line] : 5
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 5
+[Type] : Identifier
+[Value] : Symbol
+
+[Line] : 5
+[Type] : Punctuation
+[Value] : *
+
+[Line] : 5
+[Type] : Punctuation
+[Value] : *
+
+[Line] : 5
+[Type] : Identifier
+[Value] : symbols
+
+[Line] : 5
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 5
+[Type] : Punctuation
+[Value] : {
+
+[Line] : 6
+[Type] : Unknown
+[Value] : @
+
+[Line] : 7
+[Type] : Keyword
+[Value] : float
+
+[Line] : 7
+[Type] : Identifier
+[Value] : a
+
+[Line] : 7
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 7
+[Type] : Unknown
+[Value] : 0.
+
+[Line] : 7
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 8
+[Type] : Keyword
+[Value] : float
+
+[Line] : 8
+[Type] : Identifier
+[Value] : c
+
+[Line] : 8
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 8
+[Type] : Unknown
+[Value] : 0.1E
+
+[Line] : 8
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 9
+[Type] : Keyword
+[Value] : float
+
+[Line] : 9
+[Type] : Identifier
+[Value] : c
+
+[Line] : 9
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 9
+[Type] : Unknown
+[Value] : 0.1E+
+
+[Line] : 9
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 11
+[Type] : Keyword
+[Value] : int
+
+[Line] : 11
+[Type] : Identifier
+[Value] : state
+
+[Line] : 11
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 11
+[Type] : Integer
+[Value] : 0
+
+[Line] : 11
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 12
+[Type] : Keyword
+[Value] : int
+
+[Line] : 12
+[Type] : Identifier
+[Value] : end
+
+[Line] : 12
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 13
+[Type] : Keyword
+[Value] : char
+
+[Line] : 13
+[Type] : Identifier
+[Value] : c
+
+[Line] : 13
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 15
+[Type] : Identifier
+[Value] : label
+
+[Line] : 15
+[Type] : Punctuation
+[Value] : :
+
+[Line] : 16
+[Type] : Keyword
+[Value] : while
+
+[Line] : 16
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 16
+[Type] : Identifier
+[Value] : fgets
+
+[Line] : 16
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 16
+[Type] : Identifier
+[Value] : buffer
+
+[Line] : 16
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 16
+[Type] : Identifier
+[Value] : fp
+
+[Line] : 16
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 16
+[Type] : Punctuation
+[Value] : !
+
+[Line] : 16
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 16
+[Type] : Identifier
+[Value] : NULL
+
+[Line] : 16
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 16
+[Type] : Punctuation
+[Value] : {
+
+[Line] : 18
+[Type] : Identifier
+[Value] : characters
+
+[Line] : 18
+[Type] : Punctuation
+[Value] : +
+
+[Line] : 18
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 18
+[Type] : Identifier
+[Value] : strlen
+
+[Line] : 18
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 18
+[Type] : Identifier
+[Value] : buffer
+
+[Line] : 18
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 18
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 19
+[Type] : Punctuation
+[Value] : +
+
+[Line] : 19
+[Type] : Punctuation
+[Value] : +
+
+[Line] : 19
+[Type] : Identifier
+[Value] : line
+
+[Line] : 19
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 20
+[Type] : Identifier
+[Value] : end
+
+[Line] : 20
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 20
+[Type] : Integer
+[Value] : 0
+
+[Line] : 20
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 21
+[Type] : Keyword
+[Value] : char
+
+[Line] : 21
+[Type] : Identifier
+[Value] : token
+
+[Line] : 21
+[Type] : Punctuation
+[Value] : [
+
+[Line] : 21
+[Type] : Integer
+[Value] : 35
+
+[Line] : 21
+[Type] : Punctuation
+[Value] : ]
+
+[Line] : 21
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 23
+[Type] : Keyword
+[Value] : for
+
+[Line] : 23
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 23
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 23
+[Type] : Identifier
+[Value] : end
+
+[Line] : 23
+[Type] : Punctuation
+[Value] : <
+
+[Line] : 23
+[Type] : Identifier
+[Value] : strlen
+
+[Line] : 23
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 23
+[Type] : Identifier
+[Value] : buffer
+
+[Line] : 23
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 23
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 23
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 23
+[Type] : Punctuation
+[Value] : {
+
+[Line] : 25
+[Type] : Keyword
+[Value] : switch
+
+[Line] : 25
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 25
+[Type] : Identifier
+[Value] : state
+
+[Line] : 25
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 25
+[Type] : Punctuation
+[Value] : {
+
+[Line] : 27
+[Type] : Keyword
+[Value] : case
+
+[Line] : 27
+[Type] : Integer
+[Value] : 0
+
+[Line] : 27
+[Type] : Punctuation
+[Value] : :
+
+[Line] : 29
+[Type] : Identifier
+[Value] : memset
+
+[Line] : 29
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 29
+[Type] : Identifier
+[Value] : token
+
+[Line] : 29
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 29
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 29
+[Type] : Punctuation
+[Value] : \
+
+[Line] : 29
+[Type] : Integer
+[Value] : 0
+
+[Line] : 29
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 29
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 29
+[Type] : Keyword
+[Value] : sizeof
+
+[Line] : 29
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 29
+[Type] : Identifier
+[Value] : token
+
+[Line] : 29
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 29
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 29
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 30
+[Type] : Identifier
+[Value] : getnext
+
+[Line] : 30
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 30
+[Type] : Identifier
+[Value] : buffer
+
+[Line] : 30
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 30
+[Type] : Punctuation
+[Value] : &
+
+[Line] : 30
+[Type] : Identifier
+[Value] : c
+
+[Line] : 30
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 30
+[Type] : Punctuation
+[Value] : &
+
+[Line] : 30
+[Type] : Identifier
+[Value] : end
+
+[Line] : 30
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 30
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 31
+[Type] : Identifier
+[Value] : skipblank
+
+[Line] : 31
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 31
+[Type] : Identifier
+[Value] : buffer
+
+[Line] : 31
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 31
+[Type] : Punctuation
+[Value] : &
+
+[Line] : 31
+[Type] : Identifier
+[Value] : c
+
+[Line] : 31
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 31
+[Type] : Punctuation
+[Value] : &
+
+[Line] : 31
+[Type] : Identifier
+[Value] : end
+
+[Line] : 31
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 31
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 33
+[Type] : Keyword
+[Value] : if
+
+[Line] : 33
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 33
+[Type] : Identifier
+[Value] : c
+
+[Line] : 33
+[Type] : Punctuation
+[Value] : ==
+
+[Line] : 33
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 33
+[Type] : Punctuation
+[Value] : \
+
+[Line] : 33
+[Type] : Identifier
+[Value] : n
+
+[Line] : 33
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 33
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 33
+[Type] : Punctuation
+[Value] : {
+
+[Line] : 34
+[Type] : Keyword
+[Value] : goto
+
+[Line] : 34
+[Type] : Identifier
+[Value] : label
+
+[Line] : 34
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 35
+[Type] : Punctuation
+[Value] : }
+
+[Line] : 37
+[Type] : Keyword
+[Value] : if
+
+[Line] : 37
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 37
+[Type] : Identifier
+[Value] : isalpha
+
+[Line] : 37
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 37
+[Type] : Identifier
+[Value] : c
+
+[Line] : 37
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 37
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 37
+[Type] : Punctuation
+[Value] : {
+
+[Line] : 38
+[Type] : Identifier
+[Value] : state
+
+[Line] : 38
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 38
+[Type] : Integer
+[Value] : 1
+
+[Line] : 38
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 39
+[Type] : Punctuation
+[Value] : }
+
+[Line] : 39
+[Type] : Keyword
+[Value] : else
+
+[Line] : 39
+[Type] : Keyword
+[Value] : if
+
+[Line] : 39
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 39
+[Type] : Identifier
+[Value] : isdigit
+
+[Line] : 39
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 39
+[Type] : Identifier
+[Value] : c
+
+[Line] : 39
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 39
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 39
+[Type] : Punctuation
+[Value] : {
+
+[Line] : 40
+[Type] : Identifier
+[Value] : state
+
+[Line] : 40
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 40
+[Type] : Integer
+[Value] : 2
+
+[Line] : 40
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 41
+[Type] : Punctuation
+[Value] : }
+
+[Line] : 41
+[Type] : Keyword
+[Value] : else
+
+[Line] : 41
+[Type] : Keyword
+[Value] : if
+
+[Line] : 41
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 41
+[Type] : Identifier
+[Value] : c
+
+[Line] : 41
+[Type] : Punctuation
+[Value] : ==
+
+[Line] : 41
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 41
+[Type] : Punctuation
+[Value] : <
+
+[Line] : 41
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 41
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 41
+[Type] : Punctuation
+[Value] : {
+
+[Line] : 42
+[Type] : Identifier
+[Value] : state
+
+[Line] : 42
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 42
+[Type] : Integer
+[Value] : 8
+
+[Line] : 42
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 43
+[Type] : Punctuation
+[Value] : }
+
+[Line] : 43
+[Type] : Keyword
+[Value] : else
+
+[Line] : 43
+[Type] : Keyword
+[Value] : if
+
+[Line] : 43
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 43
+[Type] : Identifier
+[Value] : c
+
+[Line] : 43
+[Type] : Punctuation
+[Value] : ==
+
+[Line] : 43
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 43
+[Type] : Punctuation
+[Value] : >
+
+[Line] : 43
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 43
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 43
+[Type] : Punctuation
+[Value] : {
+
+[Line] : 44
+[Type] : Identifier
+[Value] : state
+
+[Line] : 44
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 44
+[Type] : Integer
+[Value] : 9
+
+[Line] : 44
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 45
+[Type] : Punctuation
+[Value] : }
+
+[Line] : 45
+[Type] : Keyword
+[Value] : else
+
+[Line] : 45
+[Type] : Keyword
+[Value] : if
+
+[Line] : 45
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 45
+[Type] : Identifier
+[Value] : c
+
+[Line] : 45
+[Type] : Punctuation
+[Value] : ==
+
+[Line] : 45
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 45
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 45
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 45
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 45
+[Type] : Punctuation
+[Value] : {
+
+[Line] : 46
+[Type] : Identifier
+[Value] : state
+
+[Line] : 46
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 46
+[Type] : Integer
+[Value] : 10
+
+[Line] : 46
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 47
+[Type] : Punctuation
+[Value] : }
+
+[Line] : 47
+[Type] : Keyword
+[Value] : else
+
+[Line] : 47
+[Type] : Keyword
+[Value] : if
+
+[Line] : 47
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 47
+[Type] : Identifier
+[Value] : c
+
+[Line] : 47
+[Type] : Punctuation
+[Value] : ==
+
+[Line] : 47
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 47
+[Type] : Punctuation
+[Value] : /
+
+[Line] : 47
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 47
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 47
+[Type] : Punctuation
+[Value] : {
+
+[Line] : 48
+[Type] : Identifier
+[Value] : state
+
+[Line] : 48
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 48
+[Type] : Integer
+[Value] : 11
+
+[Line] : 48
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 49
+[Type] : Punctuation
+[Value] : }
+
+[Line] : 49
+[Type] : Keyword
+[Value] : else
+
+[Line] : 49
+[Type] : Keyword
+[Value] : if
+
+[Line] : 49
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 49
+[Type] : Identifier
+[Value] : c
+
+[Line] : 49
+[Type] : Punctuation
+[Value] : ==
+
+[Line] : 49
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 49
+[Type] : Punctuation
+[Value] : :
+
+[Line] : 49
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 49
+[Type] : Punctuation
+[Value] : |
+
+[Line] : 49
+[Type] : Punctuation
+[Value] : |
+
+[Line] : 49
+[Type] : Identifier
+[Value] : c
+
+[Line] : 49
+[Type] : Punctuation
+[Value] : ==
+
+[Line] : 49
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 49
+[Type] : Punctuation
+[Value] : +
+
+[Line] : 49
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 49
+[Type] : Punctuation
+[Value] : |
+
+[Line] : 49
+[Type] : Punctuation
+[Value] : |
+
+[Line] : 49
+[Type] : Identifier
+[Value] : c
+
+[Line] : 49
+[Type] : Punctuation
+[Value] : ==
+
+[Line] : 49
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 49
+[Type] : Punctuation
+[Value] : -
+
+[Line] : 49
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 49
+[Type] : Punctuation
+[Value] : |
+
+[Line] : 49
+[Type] : Punctuation
+[Value] : |
+
+[Line] : 49
+[Type] : Identifier
+[Value] : c
+
+[Line] : 49
+[Type] : Punctuation
+[Value] : ==
+
+[Line] : 49
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 49
+[Type] : Punctuation
+[Value] : *
+
+[Line] : 49
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 50
+[Type] : Punctuation
+[Value] : |
+
+[Line] : 50
+[Type] : Punctuation
+[Value] : |
+
+[Line] : 50
+[Type] : Identifier
+[Value] : c
+
+[Line] : 50
+[Type] : Punctuation
+[Value] : ==
+
+[Line] : 50
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 50
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 50
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 50
+[Type] : Punctuation
+[Value] : |
+
+[Line] : 50
+[Type] : Punctuation
+[Value] : |
+
+[Line] : 50
+[Type] : Identifier
+[Value] : c
+
+[Line] : 50
+[Type] : Punctuation
+[Value] : ==
+
+[Line] : 50
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 50
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 50
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 50
+[Type] : Punctuation
+[Value] : |
+
+[Line] : 50
+[Type] : Punctuation
+[Value] : |
+
+[Line] : 50
+[Type] : Identifier
+[Value] : c
+
+[Line] : 50
+[Type] : Punctuation
+[Value] : ==
+
+[Line] : 50
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 50
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 50
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 50
+[Type] : Punctuation
+[Value] : |
+
+[Line] : 50
+[Type] : Punctuation
+[Value] : |
+
+[Line] : 50
+[Type] : Identifier
+[Value] : c
+
+[Line] : 50
+[Type] : Punctuation
+[Value] : ==
+
+[Line] : 50
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 50
+[Type] : Punctuation
+[Value] : \
+
+[Line] : 50
+[Type] : Punctuation
+[Value] : \
+
+[Line] : 50
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 51
+[Type] : Punctuation
+[Value] : |
+
+[Line] : 51
+[Type] : Punctuation
+[Value] : |
+
+[Line] : 51
+[Type] : Identifier
+[Value] : c
+
+[Line] : 51
+[Type] : Punctuation
+[Value] : ==
+
+[Line] : 51
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 51
+[Type] : Punctuation
+[Value] : {
+
+[Line] : 51
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 51
+[Type] : Punctuation
+[Value] : |
+
+[Line] : 51
+[Type] : Punctuation
+[Value] : |
+
+[Line] : 51
+[Type] : Identifier
+[Value] : c
+
+[Line] : 51
+[Type] : Punctuation
+[Value] : ==
+
+[Line] : 51
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 51
+[Type] : Punctuation
+[Value] : }
+
+[Line] : 51
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 51
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 51
+[Type] : Punctuation
+[Value] : {
+
+[Line] : 52
+[Type] : Identifier
+[Value] : words
+
+[Line] : 52
+[Type] : Punctuation
+[Value] : [
+
+[Line] : 52
+[Type] : Integer
+[Value] : 4
+
+[Line] : 52
+[Type] : Punctuation
+[Value] : ]
+
+[Line] : 52
+[Type] : Punctuation
+[Value] : .
+
+[Line] : 52
+[Type] : Identifier
+[Value] : num
+
+[Line] : 52
+[Type] : Punctuation
+[Value] : +
+
+[Line] : 52
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 52
+[Type] : Integer
+[Value] : 1
+
+[Line] : 52
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 53
+[Type] : Keyword
+[Value] : char
+
+[Line] : 53
+[Type] : Identifier
+[Value] : temp
+
+[Line] : 53
+[Type] : Punctuation
+[Value] : [
+
+[Line] : 53
+[Type] : Integer
+[Value] : 2
+
+[Line] : 53
+[Type] : Punctuation
+[Value] : ]
+
+[Line] : 53
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 53
+[Type] : Punctuation
+[Value] : {
+
+[Line] : 53
+[Type] : Identifier
+[Value] : c
+
+[Line] : 53
+[Type] : Punctuation
+[Value] : }
+
+[Line] : 53
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 54
+[Type] : Identifier
+[Value] : tableinsert
+
+[Line] : 54
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 54
+[Type] : Integer
+[Value] : 4
+
+[Line] : 54
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 54
+[Type] : Identifier
+[Value] : temp
+
+[Line] : 54
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 54
+[Type] : Identifier
+[Value] : symbols
+
+[Line] : 54
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 54
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 55
+[Type] : Punctuation
+[Value] : }
+
+[Line] : 55
+[Type] : Keyword
+[Value] : else
+
+[Line] : 55
+[Type] : Punctuation
+[Value] : {
+
+[Line] : 56
+[Type] : Identifier
+[Value] : state
+
+[Line] : 56
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 56
+[Type] : Integer
+[Value] : 13
+
+[Line] : 56
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 57
+[Type] : Punctuation
+[Value] : }
+
+[Line] : 59
+[Type] : Keyword
+[Value] : break
+
+[Line] : 59
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 61
+[Type] : Keyword
+[Value] : case
+
+[Line] : 61
+[Type] : Integer
+[Value] : 1
+
+[Line] : 61
+[Type] : Punctuation
+[Value] : :
+
+[Line] : 63
+[Type] : Identifier
+[Value] : tokenconnect
+
+[Line] : 63
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 63
+[Type] : Identifier
+[Value] : token
+
+[Line] : 63
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 63
+[Type] : Identifier
+[Value] : c
+
+[Line] : 63
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 63
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 64
+[Type] : Identifier
+[Value] : getnext
+
+[Line] : 64
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 64
+[Type] : Identifier
+[Value] : buffer
+
+[Line] : 64
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 64
+[Type] : Punctuation
+[Value] : &
+
+[Line] : 64
+[Type] : Identifier
+[Value] : c
+
+[Line] : 64
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 64
+[Type] : Punctuation
+[Value] : &
+
+[Line] : 64
+[Type] : Identifier
+[Value] : end
+
+[Line] : 64
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 64
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 66
+[Type] : Keyword
+[Value] : if
+
+[Line] : 66
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 66
+[Type] : Identifier
+[Value] : isdigit
+
+[Line] : 66
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 66
+[Type] : Identifier
+[Value] : c
+
+[Line] : 66
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 66
+[Type] : Punctuation
+[Value] : |
+
+[Line] : 66
+[Type] : Punctuation
+[Value] : |
+
+[Line] : 66
+[Type] : Identifier
+[Value] : isalpha
+
+[Line] : 66
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 66
+[Type] : Identifier
+[Value] : c
+
+[Line] : 66
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 66
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 66
+[Type] : Punctuation
+[Value] : {
+
+[Line] : 67
+[Type] : Identifier
+[Value] : state
+
+[Line] : 67
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 67
+[Type] : Integer
+[Value] : 1
+
+[Line] : 67
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 68
+[Type] : Punctuation
+[Value] : }
+
+[Line] : 68
+[Type] : Keyword
+[Value] : else
+
+[Line] : 68
+[Type] : Punctuation
+[Value] : {
+
+[Line] : 70
+[Type] : Punctuation
+[Value] : -
+
+[Line] : 70
+[Type] : Punctuation
+[Value] : -
+
+[Line] : 70
+[Type] : Identifier
+[Value] : end
+
+[Line] : 70
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 71
+[Type] : Identifier
+[Value] : state
+
+[Line] : 71
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 71
+[Type] : Integer
+[Value] : 0
+
+[Line] : 71
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 73
+[Type] : Keyword
+[Value] : if
+
+[Line] : 73
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 73
+[Type] : Identifier
+[Value] : iskeyword
+
+[Line] : 73
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 73
+[Type] : Identifier
+[Value] : token
+
+[Line] : 73
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 73
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 73
+[Type] : Punctuation
+[Value] : {
+
+[Line] : 74
+[Type] : Identifier
+[Value] : words
+
+[Line] : 74
+[Type] : Punctuation
+[Value] : [
+
+[Line] : 74
+[Type] : Integer
+[Value] : 0
+
+[Line] : 74
+[Type] : Punctuation
+[Value] : ]
+
+[Line] : 74
+[Type] : Punctuation
+[Value] : .
+
+[Line] : 74
+[Type] : Identifier
+[Value] : num
+
+[Line] : 74
+[Type] : Punctuation
+[Value] : +
+
+[Line] : 74
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 74
+[Type] : Integer
+[Value] : 1
+
+[Line] : 74
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 75
+[Type] : Identifier
+[Value] : tableinsert
+
+[Line] : 75
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 75
+[Type] : Integer
+[Value] : 0
+
+[Line] : 75
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 75
+[Type] : Identifier
+[Value] : token
+
+[Line] : 75
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 75
+[Type] : Identifier
+[Value] : symbols
+
+[Line] : 75
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 75
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 76
+[Type] : Punctuation
+[Value] : }
+
+[Line] : 76
+[Type] : Keyword
+[Value] : else
+
+[Line] : 76
+[Type] : Punctuation
+[Value] : {
+
+[Line] : 77
+[Type] : Identifier
+[Value] : words
+
+[Line] : 77
+[Type] : Punctuation
+[Value] : [
+
+[Line] : 77
+[Type] : Integer
+[Value] : 1
+
+[Line] : 77
+[Type] : Punctuation
+[Value] : ]
+
+[Line] : 77
+[Type] : Punctuation
+[Value] : .
+
+[Line] : 77
+[Type] : Identifier
+[Value] : num
+
+[Line] : 77
+[Type] : Punctuation
+[Value] : +
+
+[Line] : 77
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 77
+[Type] : Integer
+[Value] : 1
+
+[Line] : 77
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 78
+[Type] : Identifier
+[Value] : tableinsert
+
+[Line] : 78
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 78
+[Type] : Integer
+[Value] : 1
+
+[Line] : 78
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 78
+[Type] : Identifier
+[Value] : token
+
+[Line] : 78
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 78
+[Type] : Identifier
+[Value] : symbols
+
+[Line] : 78
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 78
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 79
+[Type] : Punctuation
+[Value] : }
+
+[Line] : 81
+[Type] : Punctuation
+[Value] : }
+
+[Line] : 83
+[Type] : Keyword
+[Value] : break
+
+[Line] : 83
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 85
+[Type] : Keyword
+[Value] : case
+
+[Line] : 85
+[Type] : Integer
+[Value] : 2
+
+[Line] : 85
+[Type] : Punctuation
+[Value] : :
+
+[Line] : 87
+[Type] : Identifier
+[Value] : tokenconnect
+
+[Line] : 87
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 87
+[Type] : Identifier
+[Value] : token
+
+[Line] : 87
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 87
+[Type] : Identifier
+[Value] : c
+
+[Line] : 87
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 87
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 88
+[Type] : Identifier
+[Value] : getnext
+
+[Line] : 88
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 88
+[Type] : Identifier
+[Value] : buffer
+
+[Line] : 88
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 88
+[Type] : Punctuation
+[Value] : &
+
+[Line] : 88
+[Type] : Identifier
+[Value] : c
+
+[Line] : 88
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 88
+[Type] : Punctuation
+[Value] : &
+
+[Line] : 88
+[Type] : Identifier
+[Value] : end
+
+[Line] : 88
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 88
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 90
+[Type] : Keyword
+[Value] : if
+
+[Line] : 90
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 90
+[Type] : Identifier
+[Value] : c
+
+[Line] : 90
+[Type] : Punctuation
+[Value] : >=
+
+[Line] : 90
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 90
+[Type] : Integer
+[Value] : 0
+
+[Line] : 90
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 90
+[Type] : Punctuation
+[Value] : &
+
+[Line] : 90
+[Type] : Punctuation
+[Value] : &
+
+[Line] : 90
+[Type] : Identifier
+[Value] : c
+
+[Line] : 90
+[Type] : Punctuation
+[Value] : <=
+
+[Line] : 90
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 90
+[Type] : Integer
+[Value] : 9
+
+[Line] : 90
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 90
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 90
+[Type] : Punctuation
+[Value] : {
+
+[Line] : 91
+[Type] : Identifier
+[Value] : state
+
+[Line] : 91
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 91
+[Type] : Integer
+[Value] : 2
+
+[Line] : 91
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 92
+[Type] : Punctuation
+[Value] : }
+
+[Line] : 92
+[Type] : Keyword
+[Value] : else
+
+[Line] : 92
+[Type] : Keyword
+[Value] : if
+
+[Line] : 92
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 92
+[Type] : Identifier
+[Value] : c
+
+[Line] : 92
+[Type] : Punctuation
+[Value] : ==
+
+[Line] : 92
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 92
+[Type] : Punctuation
+[Value] : .
+
+[Line] : 92
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 92
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 92
+[Type] : Punctuation
+[Value] : {
+
+[Line] : 93
+[Type] : Identifier
+[Value] : state
+
+[Line] : 93
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 93
+[Type] : Integer
+[Value] : 3
+
+[Line] : 93
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 94
+[Type] : Punctuation
+[Value] : }
+
+[Line] : 94
+[Type] : Keyword
+[Value] : else
+
+[Line] : 94
+[Type] : Keyword
+[Value] : if
+
+[Line] : 94
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 94
+[Type] : Identifier
+[Value] : c
+
+[Line] : 94
+[Type] : Punctuation
+[Value] : ==
+
+[Line] : 94
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 94
+[Type] : Identifier
+[Value] : E
+
+[Line] : 94
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 94
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 94
+[Type] : Punctuation
+[Value] : {
+
+[Line] : 95
+[Type] : Identifier
+[Value] : state
+
+[Line] : 95
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 95
+[Type] : Integer
+[Value] : 5
+
+[Line] : 95
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 96
+[Type] : Punctuation
+[Value] : }
+
+[Line] : 96
+[Type] : Keyword
+[Value] : else
+
+[Line] : 96
+[Type] : Punctuation
+[Value] : {
+
+[Line] : 97
+[Type] : Punctuation
+[Value] : -
+
+[Line] : 97
+[Type] : Punctuation
+[Value] : -
+
+[Line] : 97
+[Type] : Identifier
+[Value] : end
+
+[Line] : 97
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 98
+[Type] : Identifier
+[Value] : state
+
+[Line] : 98
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 98
+[Type] : Integer
+[Value] : 0
+
+[Line] : 98
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 99
+[Type] : Identifier
+[Value] : words
+
+[Line] : 99
+[Type] : Punctuation
+[Value] : [
+
+[Line] : 99
+[Type] : Integer
+[Value] : 2
+
+[Line] : 99
+[Type] : Punctuation
+[Value] : ]
+
+[Line] : 99
+[Type] : Punctuation
+[Value] : .
+
+[Line] : 99
+[Type] : Identifier
+[Value] : num
+
+[Line] : 99
+[Type] : Punctuation
+[Value] : +
+
+[Line] : 99
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 99
+[Type] : Integer
+[Value] : 1
+
+[Line] : 99
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 100
+[Type] : Identifier
+[Value] : tableinsert
+
+[Line] : 100
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 100
+[Type] : Integer
+[Value] : 2
+
+[Line] : 100
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 100
+[Type] : Identifier
+[Value] : token
+
+[Line] : 100
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 100
+[Type] : Identifier
+[Value] : symbols
+
+[Line] : 100
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 100
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 101
+[Type] : Punctuation
+[Value] : }
+
+[Line] : 103
+[Type] : Keyword
+[Value] : break
+
+[Line] : 103
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 105
+[Type] : Keyword
+[Value] : case
+
+[Line] : 105
+[Type] : Integer
+[Value] : 3
+
+[Line] : 105
+[Type] : Punctuation
+[Value] : :
+
+[Line] : 107
+[Type] : Identifier
+[Value] : tokenconnect
+
+[Line] : 107
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 107
+[Type] : Identifier
+[Value] : token
+
+[Line] : 107
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 107
+[Type] : Identifier
+[Value] : c
+
+[Line] : 107
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 107
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 108
+[Type] : Identifier
+[Value] : getnext
+
+[Line] : 108
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 108
+[Type] : Identifier
+[Value] : buffer
+
+[Line] : 108
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 108
+[Type] : Punctuation
+[Value] : &
+
+[Line] : 108
+[Type] : Identifier
+[Value] : c
+
+[Line] : 108
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 108
+[Type] : Punctuation
+[Value] : &
+
+[Line] : 108
+[Type] : Identifier
+[Value] : end
+
+[Line] : 108
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 108
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 110
+[Type] : Keyword
+[Value] : if
+
+[Line] : 110
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 110
+[Type] : Identifier
+[Value] : isdigit
+
+[Line] : 110
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 110
+[Type] : Identifier
+[Value] : c
+
+[Line] : 110
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 110
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 110
+[Type] : Punctuation
+[Value] : {
+
+[Line] : 111
+[Type] : Identifier
+[Value] : state
+
+[Line] : 111
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 111
+[Type] : Integer
+[Value] : 4
+
+[Line] : 111
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 112
+[Type] : Punctuation
+[Value] : }
+
+[Line] : 112
+[Type] : Keyword
+[Value] : else
+
+[Line] : 112
+[Type] : Punctuation
+[Value] : {
+
+[Line] : 113
+[Type] : Identifier
+[Value] : error
+
+[Line] : 113
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 113
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 113
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 114
+[Type] : Identifier
+[Value] : state
+
+[Line] : 114
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 114
+[Type] : Integer
+[Value] : 0
+
+[Line] : 114
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 115
+[Type] : Punctuation
+[Value] : }
+
+[Line] : 117
+[Type] : Keyword
+[Value] : break
+
+[Line] : 117
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 119
+[Type] : Keyword
+[Value] : case
+
+[Line] : 119
+[Type] : Integer
+[Value] : 4
+
+[Line] : 119
+[Type] : Punctuation
+[Value] : :
+
+[Line] : 121
+[Type] : Identifier
+[Value] : tokenconnect
+
+[Line] : 121
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 121
+[Type] : Identifier
+[Value] : token
+
+[Line] : 121
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 121
+[Type] : Identifier
+[Value] : c
+
+[Line] : 121
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 121
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 122
+[Type] : Identifier
+[Value] : getnext
+
+[Line] : 122
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 122
+[Type] : Identifier
+[Value] : buffer
+
+[Line] : 122
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 122
+[Type] : Punctuation
+[Value] : &
+
+[Line] : 122
+[Type] : Identifier
+[Value] : c
+
+[Line] : 122
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 122
+[Type] : Punctuation
+[Value] : &
+
+[Line] : 122
+[Type] : Identifier
+[Value] : end
+
+[Line] : 122
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 122
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 124
+[Type] : Keyword
+[Value] : if
+
+[Line] : 124
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 124
+[Type] : Identifier
+[Value] : c
+
+[Line] : 124
+[Type] : Punctuation
+[Value] : >=
+
+[Line] : 124
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 124
+[Type] : Integer
+[Value] : 0
+
+[Line] : 124
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 124
+[Type] : Punctuation
+[Value] : &
+
+[Line] : 124
+[Type] : Punctuation
+[Value] : &
+
+[Line] : 124
+[Type] : Identifier
+[Value] : c
+
+[Line] : 124
+[Type] : Punctuation
+[Value] : <=
+
+[Line] : 124
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 124
+[Type] : Integer
+[Value] : 9
+
+[Line] : 124
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 124
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 124
+[Type] : Punctuation
+[Value] : {
+
+[Line] : 125
+[Type] : Identifier
+[Value] : state
+
+[Line] : 125
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 125
+[Type] : Integer
+[Value] : 4
+
+[Line] : 125
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 126
+[Type] : Punctuation
+[Value] : }
+
+[Line] : 126
+[Type] : Keyword
+[Value] : else
+
+[Line] : 126
+[Type] : Keyword
+[Value] : if
+
+[Line] : 126
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 126
+[Type] : Identifier
+[Value] : c
+
+[Line] : 126
+[Type] : Punctuation
+[Value] : ==
+
+[Line] : 126
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 126
+[Type] : Identifier
+[Value] : E
+
+[Line] : 126
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 126
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 126
+[Type] : Punctuation
+[Value] : {
+
+[Line] : 127
+[Type] : Identifier
+[Value] : state
+
+[Line] : 127
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 127
+[Type] : Integer
+[Value] : 5
+
+[Line] : 127
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 128
+[Type] : Punctuation
+[Value] : }
+
+[Line] : 128
+[Type] : Keyword
+[Value] : else
+
+[Line] : 128
+[Type] : Punctuation
+[Value] : {
+
+[Line] : 129
+[Type] : Punctuation
+[Value] : -
+
+[Line] : 129
+[Type] : Punctuation
+[Value] : -
+
+[Line] : 129
+[Type] : Identifier
+[Value] : end
+
+[Line] : 129
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 130
+[Type] : Identifier
+[Value] : state
+
+[Line] : 130
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 130
+[Type] : Integer
+[Value] : 0
+
+[Line] : 130
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 131
+[Type] : Identifier
+[Value] : words
+
+[Line] : 131
+[Type] : Punctuation
+[Value] : [
+
+[Line] : 131
+[Type] : Integer
+[Value] : 3
+
+[Line] : 131
+[Type] : Punctuation
+[Value] : ]
+
+[Line] : 131
+[Type] : Punctuation
+[Value] : .
+
+[Line] : 131
+[Type] : Identifier
+[Value] : num
+
+[Line] : 131
+[Type] : Punctuation
+[Value] : +
+
+[Line] : 131
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 131
+[Type] : Integer
+[Value] : 1
+
+[Line] : 131
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 132
+[Type] : Identifier
+[Value] : tableinsert
+
+[Line] : 132
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 132
+[Type] : Integer
+[Value] : 3
+
+[Line] : 132
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 132
+[Type] : Identifier
+[Value] : token
+
+[Line] : 132
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 132
+[Type] : Identifier
+[Value] : symbols
+
+[Line] : 132
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 132
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 133
+[Type] : Punctuation
+[Value] : }
+
+[Line] : 135
+[Type] : Keyword
+[Value] : break
+
+[Line] : 135
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 137
+[Type] : Keyword
+[Value] : case
+
+[Line] : 137
+[Type] : Integer
+[Value] : 5
+
+[Line] : 137
+[Type] : Punctuation
+[Value] : :
+
+[Line] : 139
+[Type] : Identifier
+[Value] : tokenconnect
+
+[Line] : 139
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 139
+[Type] : Identifier
+[Value] : token
+
+[Line] : 139
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 139
+[Type] : Identifier
+[Value] : c
+
+[Line] : 139
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 139
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 140
+[Type] : Identifier
+[Value] : getnext
+
+[Line] : 140
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 140
+[Type] : Identifier
+[Value] : buffer
+
+[Line] : 140
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 140
+[Type] : Punctuation
+[Value] : &
+
+[Line] : 140
+[Type] : Identifier
+[Value] : c
+
+[Line] : 140
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 140
+[Type] : Punctuation
+[Value] : &
+
+[Line] : 140
+[Type] : Identifier
+[Value] : end
+
+[Line] : 140
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 140
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 142
+[Type] : Keyword
+[Value] : if
+
+[Line] : 142
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 142
+[Type] : Identifier
+[Value] : c
+
+[Line] : 142
+[Type] : Punctuation
+[Value] : >=
+
+[Line] : 142
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 142
+[Type] : Integer
+[Value] : 0
+
+[Line] : 142
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 142
+[Type] : Punctuation
+[Value] : &
+
+[Line] : 142
+[Type] : Punctuation
+[Value] : &
+
+[Line] : 142
+[Type] : Identifier
+[Value] : c
+
+[Line] : 142
+[Type] : Punctuation
+[Value] : <=
+
+[Line] : 142
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 142
+[Type] : Integer
+[Value] : 9
+
+[Line] : 142
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 142
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 142
+[Type] : Punctuation
+[Value] : {
+
+[Line] : 143
+[Type] : Identifier
+[Value] : state
+
+[Line] : 143
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 143
+[Type] : Integer
+[Value] : 7
+
+[Line] : 143
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 144
+[Type] : Punctuation
+[Value] : }
+
+[Line] : 144
+[Type] : Keyword
+[Value] : else
+
+[Line] : 144
+[Type] : Keyword
+[Value] : if
+
+[Line] : 144
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 144
+[Type] : Identifier
+[Value] : c
+
+[Line] : 144
+[Type] : Punctuation
+[Value] : ==
+
+[Line] : 144
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 144
+[Type] : Punctuation
+[Value] : -
+
+[Line] : 144
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 144
+[Type] : Punctuation
+[Value] : |
+
+[Line] : 144
+[Type] : Punctuation
+[Value] : |
+
+[Line] : 144
+[Type] : Identifier
+[Value] : c
+
+[Line] : 144
+[Type] : Punctuation
+[Value] : ==
+
+[Line] : 144
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 144
+[Type] : Punctuation
+[Value] : +
+
+[Line] : 144
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 144
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 144
+[Type] : Punctuation
+[Value] : {
+
+[Line] : 145
+[Type] : Identifier
+[Value] : state
+
+[Line] : 145
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 145
+[Type] : Integer
+[Value] : 6
+
+[Line] : 145
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 146
+[Type] : Punctuation
+[Value] : }
+
+[Line] : 146
+[Type] : Keyword
+[Value] : else
+
+[Line] : 146
+[Type] : Punctuation
+[Value] : {
+
+[Line] : 147
+[Type] : Identifier
+[Value] : error
+
+[Line] : 147
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 147
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 147
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 148
+[Type] : Identifier
+[Value] : state
+
+[Line] : 148
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 148
+[Type] : Integer
+[Value] : 0
+
+[Line] : 148
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 149
+[Type] : Punctuation
+[Value] : }
+
+[Line] : 151
+[Type] : Keyword
+[Value] : break
+
+[Line] : 151
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 153
+[Type] : Keyword
+[Value] : case
+
+[Line] : 153
+[Type] : Integer
+[Value] : 6
+
+[Line] : 153
+[Type] : Punctuation
+[Value] : :
+
+[Line] : 155
+[Type] : Identifier
+[Value] : tokenconnect
+
+[Line] : 155
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 155
+[Type] : Identifier
+[Value] : token
+
+[Line] : 155
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 155
+[Type] : Identifier
+[Value] : c
+
+[Line] : 155
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 155
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 156
+[Type] : Identifier
+[Value] : getnext
+
+[Line] : 156
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 156
+[Type] : Identifier
+[Value] : buffer
+
+[Line] : 156
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 156
+[Type] : Punctuation
+[Value] : &
+
+[Line] : 156
+[Type] : Identifier
+[Value] : c
+
+[Line] : 156
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 156
+[Type] : Punctuation
+[Value] : &
+
+[Line] : 156
+[Type] : Identifier
+[Value] : end
+
+[Line] : 156
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 156
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 158
+[Type] : Keyword
+[Value] : if
+
+[Line] : 158
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 158
+[Type] : Identifier
+[Value] : isdigit
+
+[Line] : 158
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 158
+[Type] : Identifier
+[Value] : c
+
+[Line] : 158
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 158
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 158
+[Type] : Punctuation
+[Value] : {
+
+[Line] : 159
+[Type] : Identifier
+[Value] : state
+
+[Line] : 159
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 159
+[Type] : Integer
+[Value] : 7
+
+[Line] : 159
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 160
+[Type] : Punctuation
+[Value] : }
+
+[Line] : 160
+[Type] : Keyword
+[Value] : else
+
+[Line] : 160
+[Type] : Punctuation
+[Value] : {
+
+[Line] : 161
+[Type] : Identifier
+[Value] : error
+
+[Line] : 161
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 161
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 161
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 162
+[Type] : Identifier
+[Value] : state
+
+[Line] : 162
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 162
+[Type] : Integer
+[Value] : 0
+
+[Line] : 162
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 163
+[Type] : Punctuation
+[Value] : }
+
+[Line] : 165
+[Type] : Keyword
+[Value] : break
+
+[Line] : 165
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 167
+[Type] : Keyword
+[Value] : case
+
+[Line] : 167
+[Type] : Integer
+[Value] : 7
+
+[Line] : 167
+[Type] : Punctuation
+[Value] : :
+
+[Line] : 169
+[Type] : Identifier
+[Value] : tokenconnect
+
+[Line] : 169
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 169
+[Type] : Identifier
+[Value] : token
+
+[Line] : 169
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 169
+[Type] : Identifier
+[Value] : c
+
+[Line] : 169
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 169
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 170
+[Type] : Identifier
+[Value] : getnext
+
+[Line] : 170
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 170
+[Type] : Identifier
+[Value] : buffer
+
+[Line] : 170
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 170
+[Type] : Punctuation
+[Value] : &
+
+[Line] : 170
+[Type] : Identifier
+[Value] : c
+
+[Line] : 170
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 170
+[Type] : Punctuation
+[Value] : &
+
+[Line] : 170
+[Type] : Identifier
+[Value] : end
+
+[Line] : 170
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 170
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 172
+[Type] : Keyword
+[Value] : if
+
+[Line] : 172
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 172
+[Type] : Identifier
+[Value] : isdigit
+
+[Line] : 172
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 172
+[Type] : Identifier
+[Value] : c
+
+[Line] : 172
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 172
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 172
+[Type] : Punctuation
+[Value] : {
+
+[Line] : 173
+[Type] : Identifier
+[Value] : state
+
+[Line] : 173
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 173
+[Type] : Integer
+[Value] : 7
+
+[Line] : 173
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 174
+[Type] : Punctuation
+[Value] : }
+
+[Line] : 174
+[Type] : Keyword
+[Value] : else
+
+[Line] : 174
+[Type] : Punctuation
+[Value] : {
+
+[Line] : 175
+[Type] : Punctuation
+[Value] : -
+
+[Line] : 175
+[Type] : Punctuation
+[Value] : -
+
+[Line] : 175
+[Type] : Identifier
+[Value] : end
+
+[Line] : 175
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 176
+[Type] : Identifier
+[Value] : state
+
+[Line] : 176
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 176
+[Type] : Integer
+[Value] : 0
+
+[Line] : 176
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 177
+[Type] : Identifier
+[Value] : words
+
+[Line] : 177
+[Type] : Punctuation
+[Value] : [
+
+[Line] : 177
+[Type] : Integer
+[Value] : 3
+
+[Line] : 177
+[Type] : Punctuation
+[Value] : ]
+
+[Line] : 177
+[Type] : Punctuation
+[Value] : .
+
+[Line] : 177
+[Type] : Identifier
+[Value] : num
+
+[Line] : 177
+[Type] : Punctuation
+[Value] : +
+
+[Line] : 177
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 177
+[Type] : Integer
+[Value] : 1
+
+[Line] : 177
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 178
+[Type] : Identifier
+[Value] : tableinsert
+
+[Line] : 178
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 178
+[Type] : Integer
+[Value] : 3
+
+[Line] : 178
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 178
+[Type] : Identifier
+[Value] : token
+
+[Line] : 178
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 178
+[Type] : Identifier
+[Value] : symbols
+
+[Line] : 178
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 178
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 179
+[Type] : Punctuation
+[Value] : }
+
+[Line] : 181
+[Type] : Keyword
+[Value] : break
+
+[Line] : 181
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 183
+[Type] : Keyword
+[Value] : case
+
+[Line] : 183
+[Type] : Integer
+[Value] : 8
+
+[Line] : 183
+[Type] : Punctuation
+[Value] : :
+
+[Line] : 185
+[Type] : Identifier
+[Value] : tokenconnect
+
+[Line] : 185
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 185
+[Type] : Identifier
+[Value] : token
+
+[Line] : 185
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 185
+[Type] : Identifier
+[Value] : c
+
+[Line] : 185
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 185
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 186
+[Type] : Identifier
+[Value] : getnext
+
+[Line] : 186
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 186
+[Type] : Identifier
+[Value] : buffer
+
+[Line] : 186
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 186
+[Type] : Punctuation
+[Value] : &
+
+[Line] : 186
+[Type] : Identifier
+[Value] : c
+
+[Line] : 186
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 186
+[Type] : Punctuation
+[Value] : &
+
+[Line] : 186
+[Type] : Identifier
+[Value] : end
+
+[Line] : 186
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 186
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 187
+[Type] : Identifier
+[Value] : words
+
+[Line] : 187
+[Type] : Punctuation
+[Value] : [
+
+[Line] : 187
+[Type] : Integer
+[Value] : 3
+
+[Line] : 187
+[Type] : Punctuation
+[Value] : ]
+
+[Line] : 187
+[Type] : Punctuation
+[Value] : .
+
+[Line] : 187
+[Type] : Identifier
+[Value] : num
+
+[Line] : 187
+[Type] : Punctuation
+[Value] : +
+
+[Line] : 187
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 187
+[Type] : Integer
+[Value] : 1
+
+[Line] : 187
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 189
+[Type] : Keyword
+[Value] : if
+
+[Line] : 189
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 189
+[Type] : Identifier
+[Value] : c
+
+[Line] : 189
+[Type] : Punctuation
+[Value] : ==
+
+[Line] : 189
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 189
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 189
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 189
+[Type] : Punctuation
+[Value] : |
+
+[Line] : 189
+[Type] : Punctuation
+[Value] : |
+
+[Line] : 189
+[Type] : Identifier
+[Value] : c
+
+[Line] : 189
+[Type] : Punctuation
+[Value] : ==
+
+[Line] : 189
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 189
+[Type] : Punctuation
+[Value] : <
+
+[Line] : 189
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 189
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 189
+[Type] : Punctuation
+[Value] : {
+
+[Line] : 190
+[Type] : Identifier
+[Value] : tokenconnect
+
+[Line] : 190
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 190
+[Type] : Identifier
+[Value] : token
+
+[Line] : 190
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 190
+[Type] : Identifier
+[Value] : c
+
+[Line] : 190
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 190
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 191
+[Type] : Identifier
+[Value] : state
+
+[Line] : 191
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 191
+[Type] : Integer
+[Value] : 0
+
+[Line] : 191
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 192
+[Type] : Identifier
+[Value] : tableinsert
+
+[Line] : 192
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 192
+[Type] : Integer
+[Value] : 4
+
+[Line] : 192
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 192
+[Type] : Identifier
+[Value] : token
+
+[Line] : 192
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 192
+[Type] : Identifier
+[Value] : symbols
+
+[Line] : 192
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 192
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 193
+[Type] : Punctuation
+[Value] : }
+
+[Line] : 193
+[Type] : Keyword
+[Value] : else
+
+[Line] : 193
+[Type] : Punctuation
+[Value] : {
+
+[Line] : 194
+[Type] : Punctuation
+[Value] : -
+
+[Line] : 194
+[Type] : Punctuation
+[Value] : -
+
+[Line] : 194
+[Type] : Identifier
+[Value] : end
+
+[Line] : 194
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 195
+[Type] : Identifier
+[Value] : state
+
+[Line] : 195
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 195
+[Type] : Integer
+[Value] : 0
+
+[Line] : 195
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 196
+[Type] : Identifier
+[Value] : tableinsert
+
+[Line] : 196
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 196
+[Type] : Integer
+[Value] : 4
+
+[Line] : 196
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 196
+[Type] : Identifier
+[Value] : token
+
+[Line] : 196
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 196
+[Type] : Identifier
+[Value] : symbols
+
+[Line] : 196
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 196
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 197
+[Type] : Punctuation
+[Value] : }
+
+[Line] : 199
+[Type] : Keyword
+[Value] : break
+
+[Line] : 199
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 201
+[Type] : Keyword
+[Value] : case
+
+[Line] : 201
+[Type] : Integer
+[Value] : 9
+
+[Line] : 201
+[Type] : Punctuation
+[Value] : :
+
+[Line] : 203
+[Type] : Identifier
+[Value] : tokenconnect
+
+[Line] : 203
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 203
+[Type] : Identifier
+[Value] : token
+
+[Line] : 203
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 203
+[Type] : Identifier
+[Value] : c
+
+[Line] : 203
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 203
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 204
+[Type] : Identifier
+[Value] : getnext
+
+[Line] : 204
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 204
+[Type] : Identifier
+[Value] : buffer
+
+[Line] : 204
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 204
+[Type] : Punctuation
+[Value] : &
+
+[Line] : 204
+[Type] : Identifier
+[Value] : c
+
+[Line] : 204
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 204
+[Type] : Punctuation
+[Value] : &
+
+[Line] : 204
+[Type] : Identifier
+[Value] : end
+
+[Line] : 204
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 204
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 205
+[Type] : Identifier
+[Value] : words
+
+[Line] : 205
+[Type] : Punctuation
+[Value] : [
+
+[Line] : 205
+[Type] : Integer
+[Value] : 3
+
+[Line] : 205
+[Type] : Punctuation
+[Value] : ]
+
+[Line] : 205
+[Type] : Punctuation
+[Value] : .
+
+[Line] : 205
+[Type] : Identifier
+[Value] : num
+
+[Line] : 205
+[Type] : Punctuation
+[Value] : +
+
+[Line] : 205
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 205
+[Type] : Integer
+[Value] : 1
+
+[Line] : 205
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 207
+[Type] : Keyword
+[Value] : if
+
+[Line] : 207
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 207
+[Type] : Identifier
+[Value] : c
+
+[Line] : 207
+[Type] : Punctuation
+[Value] : ==
+
+[Line] : 207
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 207
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 207
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 207
+[Type] : Punctuation
+[Value] : |
+
+[Line] : 207
+[Type] : Punctuation
+[Value] : |
+
+[Line] : 207
+[Type] : Identifier
+[Value] : c
+
+[Line] : 207
+[Type] : Punctuation
+[Value] : ==
+
+[Line] : 207
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 207
+[Type] : Punctuation
+[Value] : >
+
+[Line] : 207
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 207
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 207
+[Type] : Punctuation
+[Value] : {
+
+[Line] : 208
+[Type] : Identifier
+[Value] : tokenconnect
+
+[Line] : 208
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 208
+[Type] : Identifier
+[Value] : token
+
+[Line] : 208
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 208
+[Type] : Identifier
+[Value] : c
+
+[Line] : 208
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 208
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 209
+[Type] : Identifier
+[Value] : state
+
+[Line] : 209
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 209
+[Type] : Integer
+[Value] : 0
+
+[Line] : 209
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 210
+[Type] : Identifier
+[Value] : tableinsert
+
+[Line] : 210
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 210
+[Type] : Integer
+[Value] : 4
+
+[Line] : 210
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 210
+[Type] : Identifier
+[Value] : token
+
+[Line] : 210
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 210
+[Type] : Identifier
+[Value] : symbols
+
+[Line] : 210
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 210
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 211
+[Type] : Punctuation
+[Value] : }
+
+[Line] : 211
+[Type] : Keyword
+[Value] : else
+
+[Line] : 211
+[Type] : Punctuation
+[Value] : {
+
+[Line] : 212
+[Type] : Punctuation
+[Value] : -
+
+[Line] : 212
+[Type] : Punctuation
+[Value] : -
+
+[Line] : 212
+[Type] : Identifier
+[Value] : end
+
+[Line] : 212
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 213
+[Type] : Identifier
+[Value] : state
+
+[Line] : 213
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 213
+[Type] : Integer
+[Value] : 0
+
+[Line] : 213
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 214
+[Type] : Identifier
+[Value] : tableinsert
+
+[Line] : 214
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 214
+[Type] : Integer
+[Value] : 4
+
+[Line] : 214
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 214
+[Type] : Identifier
+[Value] : token
+
+[Line] : 214
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 214
+[Type] : Identifier
+[Value] : symbols
+
+[Line] : 214
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 214
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 215
+[Type] : Punctuation
+[Value] : }
+
+[Line] : 217
+[Type] : Keyword
+[Value] : break
+
+[Line] : 217
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 219
+[Type] : Keyword
+[Value] : case
+
+[Line] : 219
+[Type] : Integer
+[Value] : 10
+
+[Line] : 219
+[Type] : Punctuation
+[Value] : :
+
+[Line] : 221
+[Type] : Identifier
+[Value] : tokenconnect
+
+[Line] : 221
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 221
+[Type] : Identifier
+[Value] : token
+
+[Line] : 221
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 221
+[Type] : Identifier
+[Value] : c
+
+[Line] : 221
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 221
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 222
+[Type] : Identifier
+[Value] : getnext
+
+[Line] : 222
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 222
+[Type] : Identifier
+[Value] : buffer
+
+[Line] : 222
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 222
+[Type] : Punctuation
+[Value] : &
+
+[Line] : 222
+[Type] : Identifier
+[Value] : c
+
+[Line] : 222
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 222
+[Type] : Punctuation
+[Value] : &
+
+[Line] : 222
+[Type] : Identifier
+[Value] : end
+
+[Line] : 222
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 222
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 223
+[Type] : Identifier
+[Value] : words
+
+[Line] : 223
+[Type] : Punctuation
+[Value] : [
+
+[Line] : 223
+[Type] : Integer
+[Value] : 4
+
+[Line] : 223
+[Type] : Punctuation
+[Value] : ]
+
+[Line] : 223
+[Type] : Punctuation
+[Value] : .
+
+[Line] : 223
+[Type] : Identifier
+[Value] : num
+
+[Line] : 223
+[Type] : Punctuation
+[Value] : +
+
+[Line] : 223
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 223
+[Type] : Integer
+[Value] : 1
+
+[Line] : 223
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 225
+[Type] : Keyword
+[Value] : if
+
+[Line] : 225
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 225
+[Type] : Identifier
+[Value] : c
+
+[Line] : 225
+[Type] : Punctuation
+[Value] : ==
+
+[Line] : 225
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 225
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 225
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 225
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 225
+[Type] : Punctuation
+[Value] : {
+
+[Line] : 226
+[Type] : Identifier
+[Value] : tokenconnect
+
+[Line] : 226
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 226
+[Type] : Identifier
+[Value] : token
+
+[Line] : 226
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 226
+[Type] : Identifier
+[Value] : c
+
+[Line] : 226
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 226
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 227
+[Type] : Identifier
+[Value] : state
+
+[Line] : 227
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 227
+[Type] : Integer
+[Value] : 0
+
+[Line] : 227
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 228
+[Type] : Identifier
+[Value] : tableinsert
+
+[Line] : 228
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 228
+[Type] : Integer
+[Value] : 4
+
+[Line] : 228
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 228
+[Type] : Identifier
+[Value] : token
+
+[Line] : 228
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 228
+[Type] : Identifier
+[Value] : symbols
+
+[Line] : 228
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 228
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 229
+[Type] : Punctuation
+[Value] : }
+
+[Line] : 229
+[Type] : Keyword
+[Value] : else
+
+[Line] : 229
+[Type] : Punctuation
+[Value] : {
+
+[Line] : 230
+[Type] : Punctuation
+[Value] : -
+
+[Line] : 230
+[Type] : Punctuation
+[Value] : -
+
+[Line] : 230
+[Type] : Identifier
+[Value] : end
+
+[Line] : 230
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 231
+[Type] : Identifier
+[Value] : state
+
+[Line] : 231
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 231
+[Type] : Integer
+[Value] : 0
+
+[Line] : 231
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 232
+[Type] : Identifier
+[Value] : tableinsert
+
+[Line] : 232
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 232
+[Type] : Integer
+[Value] : 4
+
+[Line] : 232
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 232
+[Type] : Identifier
+[Value] : token
+
+[Line] : 232
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 232
+[Type] : Identifier
+[Value] : symbols
+
+[Line] : 232
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 232
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 233
+[Type] : Punctuation
+[Value] : }
+
+[Line] : 235
+[Type] : Keyword
+[Value] : break
+
+[Line] : 235
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 237
+[Type] : Keyword
+[Value] : case
+
+[Line] : 237
+[Type] : Integer
+[Value] : 11
+
+[Line] : 237
+[Type] : Punctuation
+[Value] : :
+
+[Line] : 239
+[Type] : Identifier
+[Value] : tokenconnect
+
+[Line] : 239
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 239
+[Type] : Identifier
+[Value] : token
+
+[Line] : 239
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 239
+[Type] : Identifier
+[Value] : c
+
+[Line] : 239
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 239
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 240
+[Type] : Identifier
+[Value] : getnext
+
+[Line] : 240
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 240
+[Type] : Identifier
+[Value] : buffer
+
+[Line] : 240
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 240
+[Type] : Punctuation
+[Value] : &
+
+[Line] : 240
+[Type] : Identifier
+[Value] : c
+
+[Line] : 240
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 240
+[Type] : Punctuation
+[Value] : &
+
+[Line] : 240
+[Type] : Identifier
+[Value] : end
+
+[Line] : 240
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 240
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 241
+[Type] : Keyword
+[Value] : if
+
+[Line] : 241
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 241
+[Type] : Identifier
+[Value] : c
+
+[Line] : 241
+[Type] : Punctuation
+[Value] : ==
+
+[Line] : 241
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 241
+[Type] : Punctuation
+[Value] : *
+
+[Line] : 241
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 241
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 241
+[Type] : Punctuation
+[Value] : {
+
+[Line] : 242
+[Type] : Identifier
+[Value] : state
+
+[Line] : 242
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 242
+[Type] : Integer
+[Value] : 12
+
+[Line] : 242
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 243
+[Type] : Punctuation
+[Value] : }
+
+[Line] : 243
+[Type] : Keyword
+[Value] : else
+
+[Line] : 243
+[Type] : Punctuation
+[Value] : {
+
+[Line] : 244
+[Type] : Identifier
+[Value] : end
+
+[Line] : 244
+[Type] : Punctuation
+[Value] : -
+
+[Line] : 244
+[Type] : Punctuation
+[Value] : -
+
+[Line] : 244
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 245
+[Type] : Identifier
+[Value] : state
+
+[Line] : 245
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 245
+[Type] : Integer
+[Value] : 0
+
+[Line] : 245
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 246
+[Type] : Identifier
+[Value] : words
+
+[Line] : 246
+[Type] : Punctuation
+[Value] : [
+
+[Line] : 246
+[Type] : Integer
+[Value] : 3
+
+[Line] : 246
+[Type] : Punctuation
+[Value] : ]
+
+[Line] : 246
+[Type] : Punctuation
+[Value] : .
+
+[Line] : 246
+[Type] : Identifier
+[Value] : num
+
+[Line] : 246
+[Type] : Punctuation
+[Value] : +
+
+[Line] : 246
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 246
+[Type] : Integer
+[Value] : 1
+
+[Line] : 246
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 247
+[Type] : Identifier
+[Value] : tableinsert
+
+[Line] : 247
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 247
+[Type] : Integer
+[Value] : 4
+
+[Line] : 247
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 247
+[Type] : Identifier
+[Value] : token
+
+[Line] : 247
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 247
+[Type] : Identifier
+[Value] : symbols
+
+[Line] : 247
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 247
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 248
+[Type] : Punctuation
+[Value] : }
+
+[Line] : 250
+[Type] : Keyword
+[Value] : break
+
+[Line] : 250
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 252
+[Type] : Keyword
+[Value] : case
+
+[Line] : 252
+[Type] : Integer
+[Value] : 12
+
+[Line] : 252
+[Type] : Punctuation
+[Value] : :
+
+[Line] : 254
+[Type] : Identifier
+[Value] : getnext
+
+[Line] : 254
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 254
+[Type] : Identifier
+[Value] : buffer
+
+[Line] : 254
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 254
+[Type] : Punctuation
+[Value] : &
+
+[Line] : 254
+[Type] : Identifier
+[Value] : c
+
+[Line] : 254
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 254
+[Type] : Punctuation
+[Value] : &
+
+[Line] : 254
+[Type] : Identifier
+[Value] : end
+
+[Line] : 254
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 254
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 255
+[Type] : Keyword
+[Value] : while
+
+[Line] : 255
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 255
+[Type] : Identifier
+[Value] : c
+
+[Line] : 255
+[Type] : Punctuation
+[Value] : !
+
+[Line] : 255
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 255
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 255
+[Type] : Punctuation
+[Value] : *
+
+[Line] : 255
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 255
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 255
+[Type] : Punctuation
+[Value] : {
+
+[Line] : 256
+[Type] : Identifier
+[Value] : getnext
+
+[Line] : 256
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 256
+[Type] : Identifier
+[Value] : buffer
+
+[Line] : 256
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 256
+[Type] : Punctuation
+[Value] : &
+
+[Line] : 256
+[Type] : Identifier
+[Value] : c
+
+[Line] : 256
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 256
+[Type] : Punctuation
+[Value] : &
+
+[Line] : 256
+[Type] : Identifier
+[Value] : end
+
+[Line] : 256
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 256
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 257
+[Type] : Keyword
+[Value] : if
+
+[Line] : 257
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 257
+[Type] : Identifier
+[Value] : c
+
+[Line] : 257
+[Type] : Punctuation
+[Value] : ==
+
+[Line] : 257
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 257
+[Type] : Punctuation
+[Value] : \
+
+[Line] : 257
+[Type] : Identifier
+[Value] : n
+
+[Line] : 257
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 257
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 257
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 258
+[Type] : Keyword
+[Value] : goto
+
+[Line] : 258
+[Type] : Identifier
+[Value] : label
+
+[Line] : 258
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 259
+[Type] : Punctuation
+[Value] : }
+
+[Line] : 260
+[Type] : Identifier
+[Value] : getnext
+
+[Line] : 260
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 260
+[Type] : Identifier
+[Value] : buffer
+
+[Line] : 260
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 260
+[Type] : Punctuation
+[Value] : &
+
+[Line] : 260
+[Type] : Identifier
+[Value] : c
+
+[Line] : 260
+[Type] : Punctuation
+[Value] : ,
+
+[Line] : 260
+[Type] : Punctuation
+[Value] : &
+
+[Line] : 260
+[Type] : Identifier
+[Value] : end
+
+[Line] : 260
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 260
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 261
+[Type] : Keyword
+[Value] : if
+
+[Line] : 261
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 261
+[Type] : Identifier
+[Value] : c
+
+[Line] : 261
+[Type] : Punctuation
+[Value] : ==
+
+[Line] : 261
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 261
+[Type] : Punctuation
+[Value] : /
+
+[Line] : 261
+[Type] : Punctuation
+[Value] : '
+
+[Line] : 261
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 261
+[Type] : Punctuation
+[Value] : {
+
+[Line] : 262
+[Type] : Identifier
+[Value] : state
+
+[Line] : 262
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 262
+[Type] : Integer
+[Value] : 0
+
+[Line] : 262
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 263
+[Type] : Punctuation
+[Value] : }
+
+[Line] : 263
+[Type] : Keyword
+[Value] : else
+
+[Line] : 263
+[Type] : Punctuation
+[Value] : {
+
+[Line] : 264
+[Type] : Identifier
+[Value] : state
+
+[Line] : 264
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 264
+[Type] : Integer
+[Value] : 12
+
+[Line] : 264
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 265
+[Type] : Punctuation
+[Value] : }
+
+[Line] : 267
+[Type] : Keyword
+[Value] : break
+
+[Line] : 267
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 269
+[Type] : Keyword
+[Value] : case
+
+[Line] : 269
+[Type] : Integer
+[Value] : 13
+
+[Line] : 269
+[Type] : Punctuation
+[Value] : :
+
+[Line] : 271
+[Type] : Identifier
+[Value] : error
+
+[Line] : 271
+[Type] : Punctuation
+[Value] : (
+
+[Line] : 271
+[Type] : Punctuation
+[Value] : )
+
+[Line] : 271
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 272
+[Type] : Identifier
+[Value] : state
+
+[Line] : 272
+[Type] : Punctuation
+[Value] : =
+
+[Line] : 272
+[Type] : Integer
+[Value] : 0
+
+[Line] : 272
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 273
+[Type] : Keyword
+[Value] : break
+
+[Line] : 273
+[Type] : Punctuation
+[Value] : ;
+
+[Line] : 275
+[Type] : Punctuation
+[Value] : }
+
+[Line] : 276
+[Type] : Punctuation
+[Value] : }
+
+[Line] : 277
+[Type] : Punctuation
+[Value] : }
+
+[Line] : 278
+[Type] : Punctuation
+[Value] : }
+
+The number of rows in this source file : 278
+The number of characters in this source file : 8404
+[Keyword] : 95
+[Identifier] : 300
+[Integer] : 94
+[Float] : 0
+[Punctuation] : 818
+[Unknown] : 4
